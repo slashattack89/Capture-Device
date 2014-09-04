@@ -1,0 +1,26 @@
+-x
+objective-c
+-arch
+x86_64
+-fpascal-strings
+-O0
+-D__MACOS__
+-isysroot
+/Volumes/My Book Thunderbolt Duo/Rips/Xcode6-Beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.10.sdk
+-fasm-blocks
+-mmacosx-version-min=10.10
+-g
+-fvisibility=hidden
+-I/Volumes/My Book Thunderbolt Duo/new app/5d capture/Build/Products/Debug/include
+-I../../../EDSDK/Header
+-Iview
+-Icommand
+-Iaction
+-Icamera
+-F/Volumes/My Book Thunderbolt Duo/new app/5d capture/Build/Products/Debug
+-F../../../EDSDK/Framework
+-F/Volumes/Macintosh/Sample/Xcode/CameraControl/../../../EDSDK/Framework
+x86_64-apple-darwin14.0.0
+"4.2.1 Compatible Apple LLVM 6.0 (clang-600.0.34.4)"
+SDK_PRODUCT_BUILD_VERSION=14A238w
+14A238w

@@ -1,0 +1,279 @@
+TCameraControl
+v7
+r1
+cCheck dependencies
+
+CBuild AST from /Volumes/Macintosh/Sample/Xcode/CameraControl/AppController.m
+r0
+
+CBuild AST from /Volumes/Macintosh/Sample/Xcode/CameraControl/Processor.m
+r0
+
+CBuild AST from /Volumes/Macintosh/Sample/Xcode/CameraControl/Thread.m
+r0
+
+CBuild AST from /Volumes/Macintosh/Sample/Xcode/CameraControl/action/ActionEdsRef.m
+r0
+
+CBuild AST from /Volumes/Macintosh/Sample/Xcode/CameraControl/action/ActionEvent.m
+r0
+
+CBuild AST from /Volumes/Macintosh/Sample/Xcode/CameraControl/camera/CameraEvfData.m
+r0
+
+CBuild AST from /Volumes/Macintosh/Sample/Xcode/CameraControl/camera/cameraController.m
+r0
+
+CBuild AST from /Volumes/Macintosh/Sample/Xcode/CameraControl/camera/cameraEvent.m
+r0
+
+CBuild AST from /Volumes/Macintosh/Sample/Xcode/CameraControl/camera/cameraEventListener.m
+r0
+
+CBuild AST from /Volumes/Macintosh/Sample/Xcode/CameraControl/camera/cameraModel.m
+r0
+
+CBuild AST from /Volumes/Macintosh/Sample/Xcode/CameraControl/camera/cameraModelLegacy.m
+r0
+
+CBuild AST from /Volumes/Macintosh/Sample/Xcode/CameraControl/command/CloseSessionCommand.m
+r0
+
+CBuild AST from /Volumes/Macintosh/Sample/Xcode/CameraControl/command/DownloadCommand.m
+r0
+
+CBuild AST from /Volumes/Macintosh/Sample/Xcode/CameraControl/command/DownloadEvfCommand.m
+r0
+
+CBuild AST from /Volumes/Macintosh/Sample/Xcode/CameraControl/command/DriveLensCommand.m
+r0
+
+CBuild AST from /Volumes/Macintosh/Sample/Xcode/CameraControl/command/EndEvfCommand.m
+r0
+
+CBuild AST from /Volumes/Macintosh/Sample/Xcode/CameraControl/command/EvfAFCommand.m
+r0
+
+CBuild AST from /Volumes/Macintosh/Sample/Xcode/CameraControl/command/GetPropertyCommand.m
+r0
+
+CBuild AST from /Volumes/Macintosh/Sample/Xcode/CameraControl/command/GetPropertyDescCommand.m
+r0
+
+CBuild AST from /Volumes/Macintosh/Sample/Xcode/CameraControl/command/OpenSessionCommand.m
+r0
+
+CBuild AST from /Volumes/Macintosh/Sample/Xcode/CameraControl/command/PressingShutterButtomCommand.m
+r0
+
+CBuild AST from /Volumes/Macintosh/Sample/Xcode/CameraControl/command/SaveSettingCommand.m
+r0
+
+CBuild AST from /Volumes/Macintosh/Sample/Xcode/CameraControl/command/SetCapacityCommand.m
+r0
+
+CBuild AST from /Volumes/Macintosh/Sample/Xcode/CameraControl/command/SetPropertyCommand.m
+r0
+
+CBuild AST from /Volumes/Macintosh/Sample/Xcode/CameraControl/command/StartEvfCommand.m
+r0
+
+CBuild AST from /Volumes/Macintosh/Sample/Xcode/CameraControl/command/TakePictureCommand.m
+r0
+
+CBuild AST from /Volumes/Macintosh/Sample/Xcode/CameraControl/command/cameraCommand.m
+r0
+
+CBuild AST from /Volumes/Macintosh/Sample/Xcode/CameraControl/main.m
+r0
+
+CBuild AST from /Volumes/Macintosh/Sample/Xcode/CameraControl/view/AEModePopUp.m
+r0
+
+CBuild AST from /Volumes/Macintosh/Sample/Xcode/CameraControl/view/ActionButton.m
+r0
+
+CBuild AST from /Volumes/Macintosh/Sample/Xcode/CameraControl/view/AvPopUp.m
+r0
+
+CBuild AST from /Volumes/Macintosh/Sample/Xcode/CameraControl/view/DownloadProgress.m
+r0
+
+CBuild AST from /Volumes/Macintosh/Sample/Xcode/CameraControl/view/EVFAFModePopUp.m
+r0
+
+CBuild AST from /Volumes/Macintosh/Sample/Xcode/CameraControl/view/EvfPictureView.m
+r0
+
+CBuild AST from /Volumes/Macintosh/Sample/Xcode/CameraControl/view/EvfZoomButton.m
+r0
+
+CBuild AST from /Volumes/Macintosh/Sample/Xcode/CameraControl/view/ExposurePopUp.m
+r0
+
+CBuild AST from /Volumes/Macintosh/Sample/Xcode/CameraControl/view/ImageQualityPopUp.m
+r0
+
+CBuild AST from /Volumes/Macintosh/Sample/Xcode/CameraControl/view/IsoPopUp.m
+r0
+
+CBuild AST from /Volumes/Macintosh/Sample/Xcode/CameraControl/view/MeteringPopUp.m
+r0
+
+CBuild AST from /Volumes/Macintosh/Sample/Xcode/CameraControl/view/PropertyPopUp.m
+r0
+
+CBuild AST from /Volumes/Macintosh/Sample/Xcode/CameraControl/view/TVPopUp.m
+r0
+
+CCheck dependencies
+r0
+lSLF07#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependenciesb66aebe5beb7b941^f48a1fe6beb7b941^---0#1#1#--18"Check dependencies36"B48B9BE3-C12C-40A8-8655-472D23153CEB-
+
+CCompileC /Volumes/My\ Book\ Thunderbolt\ Duo/new\ app/5d\ capture/Build/Intermediates/CameraControl.build/Debug/CameraControl.build/Objects-normal/x86_64/AEModePopUp.o /Volumes/Macintosh/Sample/Xcode/CameraControl/view/AEModePopUp.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC /Volumes/My\ Book\ Thunderbolt\ Duo/new\ app/5d\ capture/Build/Intermediates/CameraControl.build/Debug/CameraControl.build/Objects-normal/x86_64/ActionButton.o /Volumes/Macintosh/Sample/Xcode/CameraControl/view/ActionButton.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC /Volumes/My\ Book\ Thunderbolt\ Duo/new\ app/5d\ capture/Build/Intermediates/CameraControl.build/Debug/CameraControl.build/Objects-normal/x86_64/ActionEdsRef.o /Volumes/Macintosh/Sample/Xcode/CameraControl/action/ActionEdsRef.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC /Volumes/My\ Book\ Thunderbolt\ Duo/new\ app/5d\ capture/Build/Intermediates/CameraControl.build/Debug/CameraControl.build/Objects-normal/x86_64/ActionEvent.o /Volumes/Macintosh/Sample/Xcode/CameraControl/action/ActionEvent.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC /Volumes/My\ Book\ Thunderbolt\ Duo/new\ app/5d\ capture/Build/Intermediates/CameraControl.build/Debug/CameraControl.build/Objects-normal/x86_64/AppController.o /Volumes/Macintosh/Sample/Xcode/CameraControl/AppController.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC /Volumes/My\ Book\ Thunderbolt\ Duo/new\ app/5d\ capture/Build/Intermediates/CameraControl.build/Debug/CameraControl.build/Objects-normal/x86_64/AvPopUp.o /Volumes/Macintosh/Sample/Xcode/CameraControl/view/AvPopUp.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC /Volumes/My\ Book\ Thunderbolt\ Duo/new\ app/5d\ capture/Build/Intermediates/CameraControl.build/Debug/CameraControl.build/Objects-normal/x86_64/CameraEvfData.o /Volumes/Macintosh/Sample/Xcode/CameraControl/camera/CameraEvfData.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC /Volumes/My\ Book\ Thunderbolt\ Duo/new\ app/5d\ capture/Build/Intermediates/CameraControl.build/Debug/CameraControl.build/Objects-normal/x86_64/CloseSessionCommand.o /Volumes/Macintosh/Sample/Xcode/CameraControl/command/CloseSessionCommand.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC /Volumes/My\ Book\ Thunderbolt\ Duo/new\ app/5d\ capture/Build/Intermediates/CameraControl.build/Debug/CameraControl.build/Objects-normal/x86_64/DownloadCommand.o /Volumes/Macintosh/Sample/Xcode/CameraControl/command/DownloadCommand.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC /Volumes/My\ Book\ Thunderbolt\ Duo/new\ app/5d\ capture/Build/Intermediates/CameraControl.build/Debug/CameraControl.build/Objects-normal/x86_64/DownloadEvfCommand.o /Volumes/Macintosh/Sample/Xcode/CameraControl/command/DownloadEvfCommand.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC /Volumes/My\ Book\ Thunderbolt\ Duo/new\ app/5d\ capture/Build/Intermediates/CameraControl.build/Debug/CameraControl.build/Objects-normal/x86_64/DownloadProgress.o /Volumes/Macintosh/Sample/Xcode/CameraControl/view/DownloadProgress.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC /Volumes/My\ Book\ Thunderbolt\ Duo/new\ app/5d\ capture/Build/Intermediates/CameraControl.build/Debug/CameraControl.build/Objects-normal/x86_64/DriveLensCommand.o /Volumes/Macintosh/Sample/Xcode/CameraControl/command/DriveLensCommand.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC /Volumes/My\ Book\ Thunderbolt\ Duo/new\ app/5d\ capture/Build/Intermediates/CameraControl.build/Debug/CameraControl.build/Objects-normal/x86_64/EVFAFModePopUp.o /Volumes/Macintosh/Sample/Xcode/CameraControl/view/EVFAFModePopUp.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC /Volumes/My\ Book\ Thunderbolt\ Duo/new\ app/5d\ capture/Build/Intermediates/CameraControl.build/Debug/CameraControl.build/Objects-normal/x86_64/EndEvfCommand.o /Volumes/Macintosh/Sample/Xcode/CameraControl/command/EndEvfCommand.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC /Volumes/My\ Book\ Thunderbolt\ Duo/new\ app/5d\ capture/Build/Intermediates/CameraControl.build/Debug/CameraControl.build/Objects-normal/x86_64/EvfAFCommand.o /Volumes/Macintosh/Sample/Xcode/CameraControl/command/EvfAFCommand.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC /Volumes/My\ Book\ Thunderbolt\ Duo/new\ app/5d\ capture/Build/Intermediates/CameraControl.build/Debug/CameraControl.build/Objects-normal/x86_64/EvfPictureView.o /Volumes/Macintosh/Sample/Xcode/CameraControl/view/EvfPictureView.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC /Volumes/My\ Book\ Thunderbolt\ Duo/new\ app/5d\ capture/Build/Intermediates/CameraControl.build/Debug/CameraControl.build/Objects-normal/x86_64/EvfZoomButton.o /Volumes/Macintosh/Sample/Xcode/CameraControl/view/EvfZoomButton.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC /Volumes/My\ Book\ Thunderbolt\ Duo/new\ app/5d\ capture/Build/Intermediates/CameraControl.build/Debug/CameraControl.build/Objects-normal/x86_64/ExposurePopUp.o /Volumes/Macintosh/Sample/Xcode/CameraControl/view/ExposurePopUp.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC /Volumes/My\ Book\ Thunderbolt\ Duo/new\ app/5d\ capture/Build/Intermediates/CameraControl.build/Debug/CameraControl.build/Objects-normal/x86_64/GetPropertyCommand.o /Volumes/Macintosh/Sample/Xcode/CameraControl/command/GetPropertyCommand.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC /Volumes/My\ Book\ Thunderbolt\ Duo/new\ app/5d\ capture/Build/Intermediates/CameraControl.build/Debug/CameraControl.build/Objects-normal/x86_64/GetPropertyDescCommand.o /Volumes/Macintosh/Sample/Xcode/CameraControl/command/GetPropertyDescCommand.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC /Volumes/My\ Book\ Thunderbolt\ Duo/new\ app/5d\ capture/Build/Intermediates/CameraControl.build/Debug/CameraControl.build/Objects-normal/x86_64/ImageQualityPopUp.o /Volumes/Macintosh/Sample/Xcode/CameraControl/view/ImageQualityPopUp.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC /Volumes/My\ Book\ Thunderbolt\ Duo/new\ app/5d\ capture/Build/Intermediates/CameraControl.build/Debug/CameraControl.build/Objects-normal/x86_64/IsoPopUp.o /Volumes/Macintosh/Sample/Xcode/CameraControl/view/IsoPopUp.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC /Volumes/My\ Book\ Thunderbolt\ Duo/new\ app/5d\ capture/Build/Intermediates/CameraControl.build/Debug/CameraControl.build/Objects-normal/x86_64/MeteringPopUp.o /Volumes/Macintosh/Sample/Xcode/CameraControl/view/MeteringPopUp.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC /Volumes/My\ Book\ Thunderbolt\ Duo/new\ app/5d\ capture/Build/Intermediates/CameraControl.build/Debug/CameraControl.build/Objects-normal/x86_64/OpenSessionCommand.o /Volumes/Macintosh/Sample/Xcode/CameraControl/command/OpenSessionCommand.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC /Volumes/My\ Book\ Thunderbolt\ Duo/new\ app/5d\ capture/Build/Intermediates/CameraControl.build/Debug/CameraControl.build/Objects-normal/x86_64/PressingShutterButtomCommand.o /Volumes/Macintosh/Sample/Xcode/CameraControl/command/PressingShutterButtomCommand.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC /Volumes/My\ Book\ Thunderbolt\ Duo/new\ app/5d\ capture/Build/Intermediates/CameraControl.build/Debug/CameraControl.build/Objects-normal/x86_64/Processor.o /Volumes/Macintosh/Sample/Xcode/CameraControl/Processor.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC /Volumes/My\ Book\ Thunderbolt\ Duo/new\ app/5d\ capture/Build/Intermediates/CameraControl.build/Debug/CameraControl.build/Objects-normal/x86_64/PropertyPopUp.o /Volumes/Macintosh/Sample/Xcode/CameraControl/view/PropertyPopUp.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC /Volumes/My\ Book\ Thunderbolt\ Duo/new\ app/5d\ capture/Build/Intermediates/CameraControl.build/Debug/CameraControl.build/Objects-normal/x86_64/SaveSettingCommand.o /Volumes/Macintosh/Sample/Xcode/CameraControl/command/SaveSettingCommand.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC /Volumes/My\ Book\ Thunderbolt\ Duo/new\ app/5d\ capture/Build/Intermediates/CameraControl.build/Debug/CameraControl.build/Objects-normal/x86_64/SetCapacityCommand.o /Volumes/Macintosh/Sample/Xcode/CameraControl/command/SetCapacityCommand.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC /Volumes/My\ Book\ Thunderbolt\ Duo/new\ app/5d\ capture/Build/Intermediates/CameraControl.build/Debug/CameraControl.build/Objects-normal/x86_64/SetPropertyCommand.o /Volumes/Macintosh/Sample/Xcode/CameraControl/command/SetPropertyCommand.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC /Volumes/My\ Book\ Thunderbolt\ Duo/new\ app/5d\ capture/Build/Intermediates/CameraControl.build/Debug/CameraControl.build/Objects-normal/x86_64/StartEvfCommand.o /Volumes/Macintosh/Sample/Xcode/CameraControl/command/StartEvfCommand.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC /Volumes/My\ Book\ Thunderbolt\ Duo/new\ app/5d\ capture/Build/Intermediates/CameraControl.build/Debug/CameraControl.build/Objects-normal/x86_64/TVPopUp.o /Volumes/Macintosh/Sample/Xcode/CameraControl/view/TVPopUp.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC /Volumes/My\ Book\ Thunderbolt\ Duo/new\ app/5d\ capture/Build/Intermediates/CameraControl.build/Debug/CameraControl.build/Objects-normal/x86_64/TakePictureCommand.o /Volumes/Macintosh/Sample/Xcode/CameraControl/command/TakePictureCommand.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC /Volumes/My\ Book\ Thunderbolt\ Duo/new\ app/5d\ capture/Build/Intermediates/CameraControl.build/Debug/CameraControl.build/Objects-normal/x86_64/Thread.o /Volumes/Macintosh/Sample/Xcode/CameraControl/Thread.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC /Volumes/My\ Book\ Thunderbolt\ Duo/new\ app/5d\ capture/Build/Intermediates/CameraControl.build/Debug/CameraControl.build/Objects-normal/x86_64/cameraCommand.o /Volumes/Macintosh/Sample/Xcode/CameraControl/command/cameraCommand.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC /Volumes/My\ Book\ Thunderbolt\ Duo/new\ app/5d\ capture/Build/Intermediates/CameraControl.build/Debug/CameraControl.build/Objects-normal/x86_64/cameraController.o /Volumes/Macintosh/Sample/Xcode/CameraControl/camera/cameraController.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC /Volumes/My\ Book\ Thunderbolt\ Duo/new\ app/5d\ capture/Build/Intermediates/CameraControl.build/Debug/CameraControl.build/Objects-normal/x86_64/cameraEvent.o /Volumes/Macintosh/Sample/Xcode/CameraControl/camera/cameraEvent.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC /Volumes/My\ Book\ Thunderbolt\ Duo/new\ app/5d\ capture/Build/Intermediates/CameraControl.build/Debug/CameraControl.build/Objects-normal/x86_64/cameraEventListener.o /Volumes/Macintosh/Sample/Xcode/CameraControl/camera/cameraEventListener.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC /Volumes/My\ Book\ Thunderbolt\ Duo/new\ app/5d\ capture/Build/Intermediates/CameraControl.build/Debug/CameraControl.build/Objects-normal/x86_64/cameraModel.o /Volumes/Macintosh/Sample/Xcode/CameraControl/camera/cameraModel.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC /Volumes/My\ Book\ Thunderbolt\ Duo/new\ app/5d\ capture/Build/Intermediates/CameraControl.build/Debug/CameraControl.build/Objects-normal/x86_64/cameraModelLegacy.o /Volumes/Macintosh/Sample/Xcode/CameraControl/camera/cameraModelLegacy.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC /Volumes/My\ Book\ Thunderbolt\ Duo/new\ app/5d\ capture/Build/Intermediates/CameraControl.build/Debug/CameraControl.build/Objects-normal/x86_64/main.o /Volumes/Macintosh/Sample/Xcode/CameraControl/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCopyStringsFile /Volumes/My\ Book\ Thunderbolt\ Duo/new\ app/5d\ capture/Build/Products/Debug/CameraControl.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+r0
+
+CLd /Volumes/My\ Book\ Thunderbolt\ Duo/new\ app/5d\ capture/Build/Products/Debug/CameraControl.app/Contents/MacOS/CameraControl normal x86_64
+r0
+
+CPBXCp /Volumes/Macintosh/EDSDK/Framework/EDSDK.framework /Volumes/My\ Book\ Thunderbolt\ Duo/new\ app/5d\ capture/Build/Products/Debug/CameraControl.app/Contents/Frameworks/EDSDK.framework
+r0
+
+CProcessInfoPlistFile /Volumes/My\ Book\ Thunderbolt\ Duo/new\ app/5d\ capture/Build/Products/Debug/CameraControl.app/Contents/Info.plist /Volumes/Macintosh/Sample/Xcode/CameraControl/Info.plist
+r0
+
+CProcessPCH /Volumes/My\ Book\ Thunderbolt\ Duo/Documents/Developer/Xcode/DerivedData/5d_capture-eebhcunbyxiznxeiaugaedleyngx/Index/PrecompiledHeaders/CameraControl_Prefix-gaodqkkzyxwahphfqjqrbzvooidx_ast/CameraControl_Prefix.pch.pch CameraControl_Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /Volumes/My\ Book\ Thunderbolt\ Duo/new\ app/5d\ capture/Build/Intermediates/PrecompiledHeaders/CameraControl_Prefix-darvyrhyjzzdgnbdhhfnfmaszcnr/CameraControl_Prefix.pch.pch CameraControl_Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CStripNIB /Volumes/Macintosh/Sample/Xcode/CameraControl/English.lproj/MainMenu.nib
+r0
+
+CTouch /Volumes/My\ Book\ Thunderbolt\ Duo/new\ app/5d\ capture/Build/Products/Debug/CameraControl.app
+r0
+

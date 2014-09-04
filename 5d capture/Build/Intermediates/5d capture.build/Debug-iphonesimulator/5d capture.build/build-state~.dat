@@ -1,0 +1,54 @@
+T5d capture
+v7
+r1
+cCheck dependencies
+
+CBuild AST from /Volumes/My\ Book\ Thunderbolt\ Duo/new\ app/5d\ capture/5d\ capture/AppDelegate.m
+r0
+
+CBuild AST from /Volumes/My\ Book\ Thunderbolt\ Duo/new\ app/5d\ capture/5d\ capture/DetailViewController.m
+r0
+
+CBuild AST from /Volumes/My\ Book\ Thunderbolt\ Duo/new\ app/5d\ capture/5d\ capture/MasterViewController.m
+r0
+
+CBuild AST from /Volumes/My\ Book\ Thunderbolt\ Duo/new\ app/5d\ capture/5d\ capture/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF07#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies1bd4ee6881b1b941^3eb4036981b1b941^---0#1#1#--18"Check dependencies36"FB724FB6-D085-4FA4-B431-2D894C4D27F1-
+
+CCompileAssetCatalog /Volumes/My\ Book\ Thunderbolt\ Duo/new\ app/5d\ capture/Build/Products/Debug-iphonesimulator/5d\ capture.app /Volumes/My\ Book\ Thunderbolt\ Duo/new\ app/5d\ capture/5d\ capture/Images.xcassets
+r0
+
+CCompileC Build/Intermediates/5d\ capture.build/Debug-iphonesimulator/5d\ capture.build/Objects-normal/i386/AppDelegate.o /Volumes/My\ Book\ Thunderbolt\ Duo/new\ app/5d\ capture/5d\ capture/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC Build/Intermediates/5d\ capture.build/Debug-iphonesimulator/5d\ capture.build/Objects-normal/i386/DetailViewController.o /Volumes/My\ Book\ Thunderbolt\ Duo/new\ app/5d\ capture/5d\ capture/DetailViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC Build/Intermediates/5d\ capture.build/Debug-iphonesimulator/5d\ capture.build/Objects-normal/i386/MasterViewController.o /Volumes/My\ Book\ Thunderbolt\ Duo/new\ app/5d\ capture/5d\ capture/MasterViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC Build/Intermediates/5d\ capture.build/Debug-iphonesimulator/5d\ capture.build/Objects-normal/i386/main.o /Volumes/My\ Book\ Thunderbolt\ Duo/new\ app/5d\ capture/5d\ capture/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileStoryboard /Volumes/My\ Book\ Thunderbolt\ Duo/new\ app/5d\ capture/5d\ capture/Base.lproj/Main.storyboard
+r0
+
+CDataModelVersionCompile /Volumes/My\ Book\ Thunderbolt\ Duo/new\ app/5d\ capture/Build/Products/Debug-iphonesimulator/5d\ capture.app/_d_capture.momd /Volumes/My\ Book\ Thunderbolt\ Duo/new\ app/5d\ capture/5d\ capture/_d_capture.xcdatamodeld
+r0
+
+CGenerateDSYMFile /Volumes/My\ Book\ Thunderbolt\ Duo/new\ app/5d\ capture/Build/Products/Debug-iphonesimulator/5d\ capture.app.dSYM /Volumes/My\ Book\ Thunderbolt\ Duo/new\ app/5d\ capture/Build/Products/Debug-iphonesimulator/5d\ capture.app/5d\ capture
+r0
+
+CLd /Volumes/My\ Book\ Thunderbolt\ Duo/new\ app/5d\ capture/Build/Products/Debug-iphonesimulator/5d\ capture.app/5d\ capture normal i386
+r0
+
+CProcessInfoPlistFile /Volumes/My\ Book\ Thunderbolt\ Duo/new\ app/5d\ capture/Build/Products/Debug-iphonesimulator/5d\ capture.app/Info.plist /Volumes/My\ Book\ Thunderbolt\ Duo/new\ app/5d\ capture/5d\ capture/Info.plist
+r0
+
+CTouch /Volumes/My\ Book\ Thunderbolt\ Duo/new\ app/5d\ capture/Build/Products/Debug-iphonesimulator/5d\ capture.app
+r0
+

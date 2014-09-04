@@ -3,6 +3,162 @@ v7
 r1
 cCheck dependencies
 
+CBuild AST from /Volumes/Macintosh/Sample/Xcode/CameraControl/AppController.m
+r0
+
+CBuild AST from /Volumes/Macintosh/Sample/Xcode/CameraControl/Processor.m
+r0
+
+CBuild AST from /Volumes/Macintosh/Sample/Xcode/CameraControl/Thread.m
+r0
+
+CBuild AST from /Volumes/Macintosh/Sample/Xcode/CameraControl/action/ActionEdsRef.m
+r0
+
+CBuild AST from /Volumes/Macintosh/Sample/Xcode/CameraControl/action/ActionEvent.m
+r0
+
+CBuild AST from /Volumes/Macintosh/Sample/Xcode/CameraControl/camera/CameraEvfData.m
+r0
+
+CBuild AST from /Volumes/Macintosh/Sample/Xcode/CameraControl/camera/cameraController.m
+r0
+
+CBuild AST from /Volumes/Macintosh/Sample/Xcode/CameraControl/camera/cameraEvent.m
+r0
+
+CBuild AST from /Volumes/Macintosh/Sample/Xcode/CameraControl/camera/cameraEventListener.m
+r0
+
+CBuild AST from /Volumes/Macintosh/Sample/Xcode/CameraControl/camera/cameraModel.m
+r0
+
+CBuild AST from /Volumes/Macintosh/Sample/Xcode/CameraControl/camera/cameraModelLegacy.m
+r0
+
+CBuild AST from /Volumes/Macintosh/Sample/Xcode/CameraControl/command/CloseSessionCommand.m
+r0
+
+CBuild AST from /Volumes/Macintosh/Sample/Xcode/CameraControl/command/DownloadCommand.m
+r0
+
+CBuild AST from /Volumes/Macintosh/Sample/Xcode/CameraControl/command/DownloadEvfCommand.m
+r0
+
+CBuild AST from /Volumes/Macintosh/Sample/Xcode/CameraControl/command/DriveLensCommand.m
+r0
+
+CBuild AST from /Volumes/Macintosh/Sample/Xcode/CameraControl/command/EndEvfCommand.m
+r0
+
+CBuild AST from /Volumes/Macintosh/Sample/Xcode/CameraControl/command/EvfAFCommand.m
+r0
+
+CBuild AST from /Volumes/Macintosh/Sample/Xcode/CameraControl/command/GetPropertyCommand.m
+r0
+
+CBuild AST from /Volumes/Macintosh/Sample/Xcode/CameraControl/command/GetPropertyDescCommand.m
+r0
+
+CBuild AST from /Volumes/Macintosh/Sample/Xcode/CameraControl/command/OpenSessionCommand.m
+r0
+
+CBuild AST from /Volumes/Macintosh/Sample/Xcode/CameraControl/command/PressingShutterButtomCommand.m
+r0
+
+CBuild AST from /Volumes/Macintosh/Sample/Xcode/CameraControl/command/SaveSettingCommand.m
+r0
+
+CBuild AST from /Volumes/Macintosh/Sample/Xcode/CameraControl/command/SetCapacityCommand.m
+r0
+
+CBuild AST from /Volumes/Macintosh/Sample/Xcode/CameraControl/command/SetPropertyCommand.m
+r0
+
+CBuild AST from /Volumes/Macintosh/Sample/Xcode/CameraControl/command/StartEvfCommand.m
+r0
+
+CBuild AST from /Volumes/Macintosh/Sample/Xcode/CameraControl/command/TakePictureCommand.m
+r0
+
+CBuild AST from /Volumes/Macintosh/Sample/Xcode/CameraControl/command/cameraCommand.m
+r0
+
+CBuild AST from /Volumes/Macintosh/Sample/Xcode/CameraControl/main.m
+r0
+
+CBuild AST from /Volumes/Macintosh/Sample/Xcode/CameraControl/view/AEModePopUp.m
+r0
+
+CBuild AST from /Volumes/Macintosh/Sample/Xcode/CameraControl/view/ActionButton.m
+r0
+
+CBuild AST from /Volumes/Macintosh/Sample/Xcode/CameraControl/view/AvPopUp.m
+r0
+
+CBuild AST from /Volumes/Macintosh/Sample/Xcode/CameraControl/view/DownloadProgress.m
+r0
+
+CBuild AST from /Volumes/Macintosh/Sample/Xcode/CameraControl/view/EVFAFModePopUp.m
+r0
+
+CBuild AST from /Volumes/Macintosh/Sample/Xcode/CameraControl/view/EvfPictureView.m
+r0
+
+CBuild AST from /Volumes/Macintosh/Sample/Xcode/CameraControl/view/EvfZoomButton.m
+r0
+
+CBuild AST from /Volumes/Macintosh/Sample/Xcode/CameraControl/view/ExposurePopUp.m
+r0
+
+CBuild AST from /Volumes/Macintosh/Sample/Xcode/CameraControl/view/ImageQualityPopUp.m
+r0
+
+CBuild AST from /Volumes/Macintosh/Sample/Xcode/CameraControl/view/IsoPopUp.m
+r0
+
+CBuild AST from /Volumes/Macintosh/Sample/Xcode/CameraControl/view/MeteringPopUp.m
+r0
+
+CBuild AST from /Volumes/Macintosh/Sample/Xcode/CameraControl/view/PropertyPopUp.m
+r0
+
+CBuild AST from /Volumes/Macintosh/Sample/Xcode/CameraControl/view/TVPopUp.m
+r0
+
+CBuild AST from /Volumes/Macintosh/Sample/Xcode/RAWDevelop/src/AFFramePanelController.m
+r0
+
+CBuild AST from /Volumes/Macintosh/Sample/Xcode/RAWDevelop/src/AppController.m
+r0
+
+CBuild AST from /Volumes/Macintosh/Sample/Xcode/RAWDevelop/src/CtrlPanelSheet.m
+r0
+
+CBuild AST from /Volumes/Macintosh/Sample/Xcode/RAWDevelop/src/EDSDKController.m
+r0
+
+CBuild AST from /Volumes/Macintosh/Sample/Xcode/RAWDevelop/src/MyAFFrameView.m
+r0
+
+CBuild AST from /Volumes/Macintosh/Sample/Xcode/RAWDevelop/src/MyImageView.m
+r0
+
+CBuild AST from /Volumes/Macintosh/Sample/Xcode/RAWDevelop/src/MyWindow.m
+r0
+
+CBuild AST from /Volumes/Macintosh/Sample/Xcode/RAWDevelop/src/ProcessPageController.m
+r0
+
+CBuild AST from /Volumes/Macintosh/Sample/Xcode/RAWDevelop/src/PropertyManager.m
+r0
+
+CBuild AST from /Volumes/Macintosh/Sample/Xcode/RAWDevelop/src/SavePageController.m
+r0
+
+CBuild AST from /Volumes/Macintosh/Sample/Xcode/RAWDevelop/src/main.m
+r0
+
 CBuild AST from /Volumes/My\ Book\ Thunderbolt\ Duo/new\ app/5d\ capture/5d\ capture/AppDelegate.m
 r0
 
@@ -17,24 +173,333 @@ r0
 
 CCheck dependencies
 r0
-lSLF07#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies1bd4ee6881b1b941^3eb4036981b1b941^---0#1#1#--18"Check dependencies36"FB724FB6-D085-4FA4-B431-2D894C4D27F1-
+lSLF07#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies2a535071bfb7b941^f8aa8d71bfb7b941^---0#1#1#--18"Check dependencies36"08C7B80A-2A60-46D8-9AA3-5BB312EE8497-
 
 CCompileAssetCatalog /Volumes/My\ Book\ Thunderbolt\ Duo/new\ app/5d\ capture/Build/Products/Debug-iphonesimulator/5d\ capture.app /Volumes/My\ Book\ Thunderbolt\ Duo/new\ app/5d\ capture/5d\ capture/Images.xcassets
+r0
+
+CCompileC Build/Intermediates/5d\ capture.build/Debug-iphonesimulator/5d\ capture.build/Objects-normal/i386/AEModePopUp-D939A8AE05B61CA4.o /Volumes/Macintosh/Sample/Xcode/CameraControl/view/AEModePopUp.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC Build/Intermediates/5d\ capture.build/Debug-iphonesimulator/5d\ capture.build/Objects-normal/i386/AEModePopUp.o /Volumes/Macintosh/Sample/Xcode/CameraControl/view/AEModePopUp.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC Build/Intermediates/5d\ capture.build/Debug-iphonesimulator/5d\ capture.build/Objects-normal/i386/AFFramePanelController.o /Volumes/Macintosh/Sample/Xcode/RAWDevelop/src/AFFramePanelController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC Build/Intermediates/5d\ capture.build/Debug-iphonesimulator/5d\ capture.build/Objects-normal/i386/ActionButton-C1F5EDC86B075BB8.o /Volumes/Macintosh/Sample/Xcode/CameraControl/view/ActionButton.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC Build/Intermediates/5d\ capture.build/Debug-iphonesimulator/5d\ capture.build/Objects-normal/i386/ActionButton.o /Volumes/Macintosh/Sample/Xcode/CameraControl/view/ActionButton.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC Build/Intermediates/5d\ capture.build/Debug-iphonesimulator/5d\ capture.build/Objects-normal/i386/ActionEdsRef-6E3CD2896D9DC09F.o /Volumes/Macintosh/Sample/Xcode/CameraControl/action/ActionEdsRef.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC Build/Intermediates/5d\ capture.build/Debug-iphonesimulator/5d\ capture.build/Objects-normal/i386/ActionEdsRef.o /Volumes/Macintosh/Sample/Xcode/CameraControl/action/ActionEdsRef.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC Build/Intermediates/5d\ capture.build/Debug-iphonesimulator/5d\ capture.build/Objects-normal/i386/ActionEvent-1B3D76FB7BD77186.o /Volumes/Macintosh/Sample/Xcode/CameraControl/action/ActionEvent.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC Build/Intermediates/5d\ capture.build/Debug-iphonesimulator/5d\ capture.build/Objects-normal/i386/ActionEvent.o /Volumes/Macintosh/Sample/Xcode/CameraControl/action/ActionEvent.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC Build/Intermediates/5d\ capture.build/Debug-iphonesimulator/5d\ capture.build/Objects-normal/i386/AppController-3CC6F658AD331AA.o /Volumes/Macintosh/Sample/Xcode/RAWDevelop/src/AppController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC Build/Intermediates/5d\ capture.build/Debug-iphonesimulator/5d\ capture.build/Objects-normal/i386/AppController-FD42F3A441B7B18A.o /Volumes/Macintosh/Sample/Xcode/CameraControl/AppController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC Build/Intermediates/5d\ capture.build/Debug-iphonesimulator/5d\ capture.build/Objects-normal/i386/AppController.o /Volumes/Macintosh/Sample/Xcode/CameraControl/AppController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
 r0
 
 CCompileC Build/Intermediates/5d\ capture.build/Debug-iphonesimulator/5d\ capture.build/Objects-normal/i386/AppDelegate.o /Volumes/My\ Book\ Thunderbolt\ Duo/new\ app/5d\ capture/5d\ capture/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
 r0
 
+CCompileC Build/Intermediates/5d\ capture.build/Debug-iphonesimulator/5d\ capture.build/Objects-normal/i386/AvPopUp-CA3C670268A63CA6.o /Volumes/Macintosh/Sample/Xcode/CameraControl/view/AvPopUp.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC Build/Intermediates/5d\ capture.build/Debug-iphonesimulator/5d\ capture.build/Objects-normal/i386/AvPopUp.o /Volumes/Macintosh/Sample/Xcode/CameraControl/view/AvPopUp.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC Build/Intermediates/5d\ capture.build/Debug-iphonesimulator/5d\ capture.build/Objects-normal/i386/CameraEvfData-AB99E2D890F75284.o /Volumes/Macintosh/Sample/Xcode/CameraControl/camera/CameraEvfData.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC Build/Intermediates/5d\ capture.build/Debug-iphonesimulator/5d\ capture.build/Objects-normal/i386/CameraEvfData.o /Volumes/Macintosh/Sample/Xcode/CameraControl/camera/CameraEvfData.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC Build/Intermediates/5d\ capture.build/Debug-iphonesimulator/5d\ capture.build/Objects-normal/i386/CloseSessionCommand-551C2A199D8619A4.o /Volumes/Macintosh/Sample/Xcode/CameraControl/command/CloseSessionCommand.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC Build/Intermediates/5d\ capture.build/Debug-iphonesimulator/5d\ capture.build/Objects-normal/i386/CloseSessionCommand.o /Volumes/Macintosh/Sample/Xcode/CameraControl/command/CloseSessionCommand.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC Build/Intermediates/5d\ capture.build/Debug-iphonesimulator/5d\ capture.build/Objects-normal/i386/CtrlPanelSheet.o /Volumes/Macintosh/Sample/Xcode/RAWDevelop/src/CtrlPanelSheet.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
 CCompileC Build/Intermediates/5d\ capture.build/Debug-iphonesimulator/5d\ capture.build/Objects-normal/i386/DetailViewController.o /Volumes/My\ Book\ Thunderbolt\ Duo/new\ app/5d\ capture/5d\ capture/DetailViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
 r0
 
+CCompileC Build/Intermediates/5d\ capture.build/Debug-iphonesimulator/5d\ capture.build/Objects-normal/i386/DownloadCommand-B3A920DC9670FBA2.o /Volumes/Macintosh/Sample/Xcode/CameraControl/command/DownloadCommand.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC Build/Intermediates/5d\ capture.build/Debug-iphonesimulator/5d\ capture.build/Objects-normal/i386/DownloadCommand.o /Volumes/Macintosh/Sample/Xcode/CameraControl/command/DownloadCommand.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC Build/Intermediates/5d\ capture.build/Debug-iphonesimulator/5d\ capture.build/Objects-normal/i386/DownloadEvfCommand-CAECDBC2311FBC8E.o /Volumes/Macintosh/Sample/Xcode/CameraControl/command/DownloadEvfCommand.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC Build/Intermediates/5d\ capture.build/Debug-iphonesimulator/5d\ capture.build/Objects-normal/i386/DownloadEvfCommand.o /Volumes/Macintosh/Sample/Xcode/CameraControl/command/DownloadEvfCommand.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC Build/Intermediates/5d\ capture.build/Debug-iphonesimulator/5d\ capture.build/Objects-normal/i386/DownloadProgress-6D11AA119AAD26A5.o /Volumes/Macintosh/Sample/Xcode/CameraControl/view/DownloadProgress.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC Build/Intermediates/5d\ capture.build/Debug-iphonesimulator/5d\ capture.build/Objects-normal/i386/DownloadProgress.o /Volumes/Macintosh/Sample/Xcode/CameraControl/view/DownloadProgress.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC Build/Intermediates/5d\ capture.build/Debug-iphonesimulator/5d\ capture.build/Objects-normal/i386/DriveLensCommand-73ADFF3E209EE9B1.o /Volumes/Macintosh/Sample/Xcode/CameraControl/command/DriveLensCommand.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC Build/Intermediates/5d\ capture.build/Debug-iphonesimulator/5d\ capture.build/Objects-normal/i386/DriveLensCommand.o /Volumes/Macintosh/Sample/Xcode/CameraControl/command/DriveLensCommand.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC Build/Intermediates/5d\ capture.build/Debug-iphonesimulator/5d\ capture.build/Objects-normal/i386/EDSDKController.o /Volumes/Macintosh/Sample/Xcode/RAWDevelop/src/EDSDKController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC Build/Intermediates/5d\ capture.build/Debug-iphonesimulator/5d\ capture.build/Objects-normal/i386/EVFAFModePopUp-AC41E3AB2E867CAA.o /Volumes/Macintosh/Sample/Xcode/CameraControl/view/EVFAFModePopUp.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC Build/Intermediates/5d\ capture.build/Debug-iphonesimulator/5d\ capture.build/Objects-normal/i386/EVFAFModePopUp.o /Volumes/Macintosh/Sample/Xcode/CameraControl/view/EVFAFModePopUp.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC Build/Intermediates/5d\ capture.build/Debug-iphonesimulator/5d\ capture.build/Objects-normal/i386/EndEvfCommand-ACF2586AF6FFFC92.o /Volumes/Macintosh/Sample/Xcode/CameraControl/command/EndEvfCommand.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC Build/Intermediates/5d\ capture.build/Debug-iphonesimulator/5d\ capture.build/Objects-normal/i386/EndEvfCommand.o /Volumes/Macintosh/Sample/Xcode/CameraControl/command/EndEvfCommand.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC Build/Intermediates/5d\ capture.build/Debug-iphonesimulator/5d\ capture.build/Objects-normal/i386/EvfAFCommand-55B37BE6E67F29B5.o /Volumes/Macintosh/Sample/Xcode/CameraControl/command/EvfAFCommand.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC Build/Intermediates/5d\ capture.build/Debug-iphonesimulator/5d\ capture.build/Objects-normal/i386/EvfAFCommand.o /Volumes/Macintosh/Sample/Xcode/CameraControl/command/EvfAFCommand.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC Build/Intermediates/5d\ capture.build/Debug-iphonesimulator/5d\ capture.build/Objects-normal/i386/EvfPictureView-9D44A1FF91769CAC.o /Volumes/Macintosh/Sample/Xcode/CameraControl/view/EvfPictureView.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC Build/Intermediates/5d\ capture.build/Debug-iphonesimulator/5d\ capture.build/Objects-normal/i386/EvfPictureView.o /Volumes/Macintosh/Sample/Xcode/CameraControl/view/EvfPictureView.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC Build/Intermediates/5d\ capture.build/Debug-iphonesimulator/5d\ capture.build/Objects-normal/i386/EvfZoomButton-665AE19FFB3C2795.o /Volumes/Macintosh/Sample/Xcode/CameraControl/view/EvfZoomButton.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC Build/Intermediates/5d\ capture.build/Debug-iphonesimulator/5d\ capture.build/Objects-normal/i386/EvfZoomButton.o /Volumes/Macintosh/Sample/Xcode/CameraControl/view/EvfZoomButton.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC Build/Intermediates/5d\ capture.build/Debug-iphonesimulator/5d\ capture.build/Objects-normal/i386/ExposurePopUp-CAD3B8CFB19F4CB7.o /Volumes/Macintosh/Sample/Xcode/CameraControl/view/ExposurePopUp.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC Build/Intermediates/5d\ capture.build/Debug-iphonesimulator/5d\ capture.build/Objects-normal/i386/ExposurePopUp.o /Volumes/Macintosh/Sample/Xcode/CameraControl/view/ExposurePopUp.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC Build/Intermediates/5d\ capture.build/Debug-iphonesimulator/5d\ capture.build/Objects-normal/i386/GetPropertyCommand-8EF7D513BCE03C96.o /Volumes/Macintosh/Sample/Xcode/CameraControl/command/GetPropertyCommand.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC Build/Intermediates/5d\ capture.build/Debug-iphonesimulator/5d\ capture.build/Objects-normal/i386/GetPropertyCommand.o /Volumes/Macintosh/Sample/Xcode/CameraControl/command/GetPropertyCommand.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC Build/Intermediates/5d\ capture.build/Debug-iphonesimulator/5d\ capture.build/Objects-normal/i386/GetPropertyDescCommand-CB842D8F7A18CC9F.o /Volumes/Macintosh/Sample/Xcode/CameraControl/command/GetPropertyDescCommand.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC Build/Intermediates/5d\ capture.build/Debug-iphonesimulator/5d\ capture.build/Objects-normal/i386/GetPropertyDescCommand.o /Volumes/Macintosh/Sample/Xcode/CameraControl/command/GetPropertyDescCommand.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC Build/Intermediates/5d\ capture.build/Debug-iphonesimulator/5d\ capture.build/Objects-normal/i386/ImageQualityPopUp-BBD67724148F6CB9.o /Volumes/Macintosh/Sample/Xcode/CameraControl/view/ImageQualityPopUp.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC Build/Intermediates/5d\ capture.build/Debug-iphonesimulator/5d\ capture.build/Objects-normal/i386/ImageQualityPopUp.o /Volumes/Macintosh/Sample/Xcode/CameraControl/view/ImageQualityPopUp.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC Build/Intermediates/5d\ capture.build/Debug-iphonesimulator/5d\ capture.build/Objects-normal/i386/IsoPopUp-D31A3209AF3E2DA5.o /Volumes/Macintosh/Sample/Xcode/CameraControl/view/IsoPopUp.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC Build/Intermediates/5d\ capture.build/Debug-iphonesimulator/5d\ capture.build/Objects-normal/i386/IsoPopUp.o /Volumes/Macintosh/Sample/Xcode/CameraControl/view/IsoPopUp.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
 CCompileC Build/Intermediates/5d\ capture.build/Debug-iphonesimulator/5d\ capture.build/Objects-normal/i386/MasterViewController.o /Volumes/My\ Book\ Thunderbolt\ Duo/new\ app/5d\ capture/5d\ capture/MasterViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC Build/Intermediates/5d\ capture.build/Debug-iphonesimulator/5d\ capture.build/Objects-normal/i386/MeteringPopUp-C41CF05E122E4DA7.o /Volumes/Macintosh/Sample/Xcode/CameraControl/view/MeteringPopUp.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC Build/Intermediates/5d\ capture.build/Debug-iphonesimulator/5d\ capture.build/Objects-normal/i386/MeteringPopUp.o /Volumes/Macintosh/Sample/Xcode/CameraControl/view/MeteringPopUp.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC Build/Intermediates/5d\ capture.build/Debug-iphonesimulator/5d\ capture.build/Objects-normal/i386/MyAFFrameView.o /Volumes/Macintosh/Sample/Xcode/RAWDevelop/src/MyAFFrameView.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC Build/Intermediates/5d\ capture.build/Debug-iphonesimulator/5d\ capture.build/Objects-normal/i386/MyImageView.o /Volumes/Macintosh/Sample/Xcode/RAWDevelop/src/MyImageView.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC Build/Intermediates/5d\ capture.build/Debug-iphonesimulator/5d\ capture.build/Objects-normal/i386/MyWindow.o /Volumes/Macintosh/Sample/Xcode/RAWDevelop/src/MyWindow.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC Build/Intermediates/5d\ capture.build/Debug-iphonesimulator/5d\ capture.build/Objects-normal/i386/OpenSessionCommand-BC86EBE3DD08ECA1.o /Volumes/Macintosh/Sample/Xcode/CameraControl/command/OpenSessionCommand.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC Build/Intermediates/5d\ capture.build/Debug-iphonesimulator/5d\ capture.build/Objects-normal/i386/OpenSessionCommand.o /Volumes/Macintosh/Sample/Xcode/CameraControl/command/OpenSessionCommand.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC Build/Intermediates/5d\ capture.build/Debug-iphonesimulator/5d\ capture.build/Objects-normal/i386/PressingShutterButtomCommand-3FFF71C9A9FE4AA7.o /Volumes/Macintosh/Sample/Xcode/CameraControl/command/PressingShutterButtomCommand.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC Build/Intermediates/5d\ capture.build/Debug-iphonesimulator/5d\ capture.build/Objects-normal/i386/PressingShutterButtomCommand.o /Volumes/Macintosh/Sample/Xcode/CameraControl/command/PressingShutterButtomCommand.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC Build/Intermediates/5d\ capture.build/Debug-iphonesimulator/5d\ capture.build/Objects-normal/i386/ProcessPageController.o /Volumes/Macintosh/Sample/Xcode/RAWDevelop/src/ProcessPageController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC Build/Intermediates/5d\ capture.build/Debug-iphonesimulator/5d\ capture.build/Objects-normal/i386/Processor-F3F8F91A203C0693.o /Volumes/Macintosh/Sample/Xcode/CameraControl/Processor.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC Build/Intermediates/5d\ capture.build/Debug-iphonesimulator/5d\ capture.build/Objects-normal/i386/Processor.o /Volumes/Macintosh/Sample/Xcode/CameraControl/Processor.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC Build/Intermediates/5d\ capture.build/Debug-iphonesimulator/5d\ capture.build/Objects-normal/i386/PropertyManager.o /Volumes/Macintosh/Sample/Xcode/RAWDevelop/src/PropertyManager.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC Build/Intermediates/5d\ capture.build/Debug-iphonesimulator/5d\ capture.build/Objects-normal/i386/PropertyPopUp-2DA10DDCA6967DAA.o /Volumes/Macintosh/Sample/Xcode/CameraControl/view/PropertyPopUp.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC Build/Intermediates/5d\ capture.build/Debug-iphonesimulator/5d\ capture.build/Objects-normal/i386/PropertyPopUp.o /Volumes/Macintosh/Sample/Xcode/CameraControl/view/PropertyPopUp.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC Build/Intermediates/5d\ capture.build/Debug-iphonesimulator/5d\ capture.build/Objects-normal/i386/SavePageController.o /Volumes/Macintosh/Sample/Xcode/RAWDevelop/src/SavePageController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC Build/Intermediates/5d\ capture.build/Debug-iphonesimulator/5d\ capture.build/Objects-normal/i386/SaveSettingCommand-C4CD651DDAA7CD8F.o /Volumes/Macintosh/Sample/Xcode/CameraControl/command/SaveSettingCommand.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC Build/Intermediates/5d\ capture.build/Debug-iphonesimulator/5d\ capture.build/Objects-normal/i386/SaveSettingCommand.o /Volumes/Macintosh/Sample/Xcode/CameraControl/command/SaveSettingCommand.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC Build/Intermediates/5d\ capture.build/Debug-iphonesimulator/5d\ capture.build/Objects-normal/i386/SetCapacityCommand-6D8E8899CA26FAB2.o /Volumes/Macintosh/Sample/Xcode/CameraControl/command/SetCapacityCommand.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC Build/Intermediates/5d\ capture.build/Debug-iphonesimulator/5d\ capture.build/Objects-normal/i386/SetCapacityCommand.o /Volumes/Macintosh/Sample/Xcode/CameraControl/command/SetCapacityCommand.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC Build/Intermediates/5d\ capture.build/Debug-iphonesimulator/5d\ capture.build/Objects-normal/i386/SetPropertyCommand-A6D2E1C6A0880D93.o /Volumes/Macintosh/Sample/Xcode/CameraControl/command/SetPropertyCommand.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC Build/Intermediates/5d\ capture.build/Debug-iphonesimulator/5d\ capture.build/Objects-normal/i386/SetPropertyCommand.o /Volumes/Macintosh/Sample/Xcode/CameraControl/command/SetPropertyCommand.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC Build/Intermediates/5d\ capture.build/Debug-iphonesimulator/5d\ capture.build/Objects-normal/i386/StartEvfCommand-97D5A01B03782D95.o /Volumes/Macintosh/Sample/Xcode/CameraControl/command/StartEvfCommand.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC Build/Intermediates/5d\ capture.build/Debug-iphonesimulator/5d\ capture.build/Objects-normal/i386/StartEvfCommand.o /Volumes/Macintosh/Sample/Xcode/CameraControl/command/StartEvfCommand.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC Build/Intermediates/5d\ capture.build/Debug-iphonesimulator/5d\ capture.build/Objects-normal/i386/TVPopUp-F6B74D7D105C0893.o /Volumes/Macintosh/Sample/Xcode/CameraControl/view/TVPopUp.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC Build/Intermediates/5d\ capture.build/Debug-iphonesimulator/5d\ capture.build/Objects-normal/i386/TVPopUp.o /Volumes/Macintosh/Sample/Xcode/CameraControl/view/TVPopUp.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC Build/Intermediates/5d\ capture.build/Debug-iphonesimulator/5d\ capture.build/Objects-normal/i386/TakePictureCommand-66D7C0282AB5FBA2.o /Volumes/Macintosh/Sample/Xcode/CameraControl/command/TakePictureCommand.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC Build/Intermediates/5d\ capture.build/Debug-iphonesimulator/5d\ capture.build/Objects-normal/i386/TakePictureCommand.o /Volumes/Macintosh/Sample/Xcode/CameraControl/command/TakePictureCommand.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC Build/Intermediates/5d\ capture.build/Debug-iphonesimulator/5d\ capture.build/Objects-normal/i386/Thread-5871D049D69F2BB5.o /Volumes/Macintosh/Sample/Xcode/CameraControl/Thread.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC Build/Intermediates/5d\ capture.build/Debug-iphonesimulator/5d\ capture.build/Objects-normal/i386/Thread.o /Volumes/Macintosh/Sample/Xcode/CameraControl/Thread.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC Build/Intermediates/5d\ capture.build/Debug-iphonesimulator/5d\ capture.build/Objects-normal/i386/cameraCommand-D1A3A433D090BB9E.o /Volumes/Macintosh/Sample/Xcode/CameraControl/command/cameraCommand.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC Build/Intermediates/5d\ capture.build/Debug-iphonesimulator/5d\ capture.build/Objects-normal/i386/cameraCommand.o /Volumes/Macintosh/Sample/Xcode/CameraControl/command/cameraCommand.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC Build/Intermediates/5d\ capture.build/Debug-iphonesimulator/5d\ capture.build/Objects-normal/i386/cameraController-F1B7833F5F95D8A0.o /Volumes/Macintosh/Sample/Xcode/CameraControl/camera/cameraController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC Build/Intermediates/5d\ capture.build/Debug-iphonesimulator/5d\ capture.build/Objects-normal/i386/cameraController.o /Volumes/Macintosh/Sample/Xcode/CameraControl/camera/cameraController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC Build/Intermediates/5d\ capture.build/Debug-iphonesimulator/5d\ capture.build/Objects-normal/i386/cameraEvent-A353699E93587196.o /Volumes/Macintosh/Sample/Xcode/CameraControl/camera/cameraEvent.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC Build/Intermediates/5d\ capture.build/Debug-iphonesimulator/5d\ capture.build/Objects-normal/i386/cameraEvent.o /Volumes/Macintosh/Sample/Xcode/CameraControl/camera/cameraEvent.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC Build/Intermediates/5d\ capture.build/Debug-iphonesimulator/5d\ capture.build/Objects-normal/i386/cameraEventListener-D3BCFFE8257618A4.o /Volumes/Macintosh/Sample/Xcode/CameraControl/camera/cameraEventListener.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC Build/Intermediates/5d\ capture.build/Debug-iphonesimulator/5d\ capture.build/Objects-normal/i386/cameraEventListener.o /Volumes/Macintosh/Sample/Xcode/CameraControl/camera/cameraEventListener.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC Build/Intermediates/5d\ capture.build/Debug-iphonesimulator/5d\ capture.build/Objects-normal/i386/cameraModel-9C9CA12CF3E77286.o /Volumes/Macintosh/Sample/Xcode/CameraControl/camera/cameraModel.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC Build/Intermediates/5d\ capture.build/Debug-iphonesimulator/5d\ capture.build/Objects-normal/i386/cameraModel.o /Volumes/Macintosh/Sample/Xcode/CameraControl/camera/cameraModel.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC Build/Intermediates/5d\ capture.build/Debug-iphonesimulator/5d\ capture.build/Objects-normal/i386/cameraModelLegacy-8D9F5F8156D79288.o /Volumes/Macintosh/Sample/Xcode/CameraControl/camera/cameraModelLegacy.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC Build/Intermediates/5d\ capture.build/Debug-iphonesimulator/5d\ capture.build/Objects-normal/i386/cameraModelLegacy.o /Volumes/Macintosh/Sample/Xcode/CameraControl/camera/cameraModelLegacy.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC Build/Intermediates/5d\ capture.build/Debug-iphonesimulator/5d\ capture.build/Objects-normal/i386/main-2AE2B979B6767BAA.o /Volumes/Macintosh/Sample/Xcode/CameraControl/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC Build/Intermediates/5d\ capture.build/Debug-iphonesimulator/5d\ capture.build/Objects-normal/i386/main-85043A008DE2F778.o /Volumes/My\ Book\ Thunderbolt\ Duo/new\ app/5d\ capture/5d\ capture/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC Build/Intermediates/5d\ capture.build/Debug-iphonesimulator/5d\ capture.build/Objects-normal/i386/main-BEADEE79842FDE90.o /Volumes/Macintosh/Sample/Xcode/CameraControl/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC Build/Intermediates/5d\ capture.build/Debug-iphonesimulator/5d\ capture.build/Objects-normal/i386/main-FD15A6F3EB62329A.o /Volumes/Macintosh/Sample/Xcode/RAWDevelop/src/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
 r0
 
 CCompileC Build/Intermediates/5d\ capture.build/Debug-iphonesimulator/5d\ capture.build/Objects-normal/i386/main.o /Volumes/My\ Book\ Thunderbolt\ Duo/new\ app/5d\ capture/5d\ capture/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
 r0
 
 CCompileStoryboard /Volumes/My\ Book\ Thunderbolt\ Duo/new\ app/5d\ capture/5d\ capture/Base.lproj/Main.storyboard
+r0
+
+CCopyPlistFile /Volumes/My\ Book\ Thunderbolt\ Duo/new\ app/5d\ capture/Build/Products/Debug-iphonesimulator/5d\ capture.app/Info.plist /Volumes/Macintosh/Sample/Xcode/CameraControl/Info.plist
+r0
+
+CCopyPlistFile /Volumes/My\ Book\ Thunderbolt\ Duo/new\ app/5d\ capture/Build/Products/Debug-iphonesimulator/5d\ capture.app/Info.plist /Volumes/Macintosh/Sample/Xcode/RAWDevelop/Info.plist
+r0
+
+CCopyPlistFile /Volumes/My\ Book\ Thunderbolt\ Duo/new\ app/5d\ capture/Build/Products/Debug-iphonesimulator/5d\ capture.app/version.plist /Volumes/Macintosh/Sample/Xcode/RAWDevelop/version.plist
+r0
+
+CCopyStringsFile /Volumes/My\ Book\ Thunderbolt\ Duo/new\ app/5d\ capture/Build/Products/Debug-iphonesimulator/5d\ capture.app/English.lproj/InfoPlist.strings /Volumes/Macintosh/Sample/Xcode/CameraControl/English.lproj/InfoPlist.strings
+r0
+
+CCopyStringsFile /Volumes/My\ Book\ Thunderbolt\ Duo/new\ app/5d\ capture/Build/Products/Debug-iphonesimulator/5d\ capture.app/English.lproj/InfoPlist.strings /Volumes/Macintosh/Sample/Xcode/RAWDevelop/English.lproj/InfoPlist.strings
+r0
+
+CCopyTiffFile /Volumes/My\ Book\ Thunderbolt\ Duo/new\ app/5d\ capture/Build/Products/Debug-iphonesimulator/5d\ capture.app/click_off.tif /Volumes/Macintosh/Sample/Xcode/RAWDevelop/Resources/click_off.tif
+r0
+
+CCopyTiffFile /Volumes/My\ Book\ Thunderbolt\ Duo/new\ app/5d\ capture/Build/Products/Debug-iphonesimulator/5d\ capture.app/click_on.tif /Volumes/Macintosh/Sample/Xcode/RAWDevelop/Resources/click_on.tif
+r0
+
+CCopyTiffFile /Volumes/My\ Book\ Thunderbolt\ Duo/new\ app/5d\ capture/Build/Products/Debug-iphonesimulator/5d\ capture.app/cur_click.tif /Volumes/Macintosh/Sample/Xcode/RAWDevelop/Resources/cur_click.tif
+r0
+
+CCpResource /Volumes/Macintosh/Sample/diagram\ of\ camera\ control.pdf Build/Products/Debug-iphonesimulator/5d\ capture.app/diagram\ of\ camera\ control.pdf
 r0
 
 CDataModelVersionCompile /Volumes/My\ Book\ Thunderbolt\ Duo/new\ app/5d\ capture/Build/Products/Debug-iphonesimulator/5d\ capture.app/_d_capture.momd /Volumes/My\ Book\ Thunderbolt\ Duo/new\ app/5d\ capture/5d\ capture/_d_capture.xcdatamodeld
@@ -47,6 +512,18 @@ CLd /Volumes/My\ Book\ Thunderbolt\ Duo/new\ app/5d\ capture/Build/Products/Debu
 r0
 
 CProcessInfoPlistFile /Volumes/My\ Book\ Thunderbolt\ Duo/new\ app/5d\ capture/Build/Products/Debug-iphonesimulator/5d\ capture.app/Info.plist /Volumes/My\ Book\ Thunderbolt\ Duo/new\ app/5d\ capture/5d\ capture/Info.plist
+r0
+
+CStripNIB /Volumes/Macintosh/Sample/Xcode/CameraControl/English.lproj/MainMenu.nib
+r0
+
+CStripNIB /Volumes/Macintosh/Sample/Xcode/CameraControl/English.lproj/MainMenu~.nib
+r0
+
+CStripNIB /Volumes/Macintosh/Sample/Xcode/RAWDevelop/English.lproj/MainMenu.nib
+r0
+
+CStripNIB /Volumes/Macintosh/Sample/Xcode/RAWDevelop/English.lproj/MainMenu~.nib
 r0
 
 CTouch /Volumes/My\ Book\ Thunderbolt\ Duo/new\ app/5d\ capture/Build/Products/Debug-iphonesimulator/5d\ capture.app
