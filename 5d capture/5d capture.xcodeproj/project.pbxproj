@@ -15,6 +15,8 @@
 		FA0A38AB19B17D39005F9B90 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FA0A38A919B17D39005F9B90 /* Main.storyboard */; };
 		FA0A38AD19B17D39005F9B90 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FA0A38AC19B17D39005F9B90 /* Images.xcassets */; };
 		FA0A38B919B17D39005F9B90 /* _d_captureTests.m in Sources */ = {isa = PBXBuildFile; fileRef = FA0A38B819B17D39005F9B90 /* _d_captureTests.m */; };
+		FA81210619EB5D1400A29C5E /* 5d capture.app in Resources */ = {isa = PBXBuildFile; fileRef = FA0A389619B17D38005F9B90 /* 5d capture.app */; };
+		FA81210719EB5D1700A29C5E /* 5d capture.app in Resources */ = {isa = PBXBuildFile; fileRef = FA0A389619B17D38005F9B90 /* 5d capture.app */; };
 		FA94DA6219B7BBA400097A9E /* ActionEdsRef.m in Sources */ = {isa = PBXBuildFile; fileRef = FA94DA0119B7BB8400097A9E /* ActionEdsRef.m */; };
 		FA94DA6319B7BBA400097A9E /* ActionEvent.m in Sources */ = {isa = PBXBuildFile; fileRef = FA94DA0319B7BB8400097A9E /* ActionEvent.m */; };
 		FA94DA6419B7BBA400097A9E /* AppController.m in Sources */ = {isa = PBXBuildFile; fileRef = FA94DA0719B7BB8400097A9E /* AppController.m */; };
@@ -440,8 +442,9 @@
 				FA0A38A019B17D38005F9B90 /* _d_capture.xcdatamodeld */,
 				FA0A389919B17D38005F9B90 /* Supporting Files */,
 			);
-			path = "5d capture";
-			sourceTree = "<group>";
+			name = "5d capture";
+			path = "../../../../../../../../../Volumes/My Book Thunderbolt Duo/new app/5d capture/5d capture";
+			sourceTree = SDKROOT;
 		};
 		FA0A389919B17D38005F9B90 /* Supporting Files */ = {
 			isa = PBXGroup;
@@ -952,6 +955,7 @@
 				FA0A38AB19B17D39005F9B90 /* Main.storyboard in Resources */,
 				FA94DB4F19B7BCD900097A9E /* InfoPlist.strings in Resources */,
 				FA94DB3B19B7BCD900097A9E /* InfoPlist.strings in Resources */,
+				FA81210619EB5D1400A29C5E /* 5d capture.app in Resources */,
 				FA94DA7C19B7BBA400097A9E /* MainMenu.nib in Resources */,
 				FA94DB3C19B7BCD900097A9E /* MainMenu.nib in Resources */,
 				FA94DA7E19B7BBA400097A9E /* Info.plist in Resources */,
@@ -972,6 +976,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				FA81210719EB5D1700A29C5E /* 5d capture.app in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
